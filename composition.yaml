@@ -1,0 +1,6 @@
+apiVersion: composition.krateo.io/v0-1-0
+kind: NginxChart
+metadata:
+  name: nginx-composition
+  namespace: krateo-system
+spec: {}
